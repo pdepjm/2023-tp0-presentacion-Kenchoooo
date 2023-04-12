@@ -1,4 +1,4 @@
 ## Kevin Tarrisse
 ### Que ondaa, soy Kevin, mis amigos y conocidos me dicen Kencho
 
-Fotoo.jpg
+![yo antes de salir](Fotoo.jpg)
